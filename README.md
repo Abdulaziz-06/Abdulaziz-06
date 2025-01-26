@@ -34,32 +34,30 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abdulaziz-06/Abdulaziz-06/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdulaziz-06&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulaziz-06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+ <div>
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulaziz-06" alt="abdulaziz-06" /></a> </p>
 
 </div>
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/abdul-aziz-0467bb2aa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="@AbdulAziz119851" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="abdul0489" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="aaziz871048@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+###
+<div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@abdulaziz119851" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdulaziz119851" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul aziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul aziz" height="30" width="40" /></a>
+<a href="https://instagram.com/__abzz_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__abzz_06" height="30" width="40" /></a>
+</p>
 </div>
 
 ###
