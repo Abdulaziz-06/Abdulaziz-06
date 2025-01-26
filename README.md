@@ -1,6 +1,9 @@
-<h2 align="left">Hi 👋! My name is ABDUL AZIZ and I'm aDEVELOPER</h2>
+<h2 align="left">Hi 👋! My name is ABDUL AZIZ and I'm a DEVELOPER</h2>
 <h1 align="center"><strong>WELCOME TO MY PROFILE!!</strong></h1>
-<h5><a href="https://23r11a05d9.wixsite.com/abdul-aziz-portfol-4"> portfolio </a></h5>
+<h4 style= "color: yellow;">
+  <a href="https://23r11a05d9.wixsite.com/abdul-aziz-portfol-4">Click to view my portfolio</a></h4>
+
+
 
 ###
 
